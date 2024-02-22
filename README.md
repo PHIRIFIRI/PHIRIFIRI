@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Bonolo Phiri 
 - 👀 I’m interested in software and web development
-- 🌱 I’m currently learning software develeopment
-- 💞️ I’m looking to collaborate on softwares and games
+- 🌱 I’m currently learning software develepment and working on projects.
+- 💞️ I’m looking to collaborate on softwares, content and video games
 - 📫 How to reach me, email : bonolophiri100@gmail.com
 
 <!---
